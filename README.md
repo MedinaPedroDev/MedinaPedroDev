@@ -67,7 +67,7 @@ I'm a TSU in Computer Science, recently graduated from the Jesús Obrero Univers
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/medina-c-pedro-e"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pedro-medina-a746a4354/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:medinacamacho27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/pedromedina_18/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100009057373959"><img src="https://img.shields.io/badge/-Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
